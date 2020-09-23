@@ -1,0 +1,12 @@
+{
+  "users": {
+    "user1": {
+      "name": "Tommy",
+      "job": "tester"
+    },
+    "user2": {
+      "name": "Daniel",
+      "job": "developer"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite of old tests" verbose="1" >
+    <test name="TestNG Practice" >
+        <classes>
+            <class name="tests.TestAPI" />
+        </classes>
+    </test>
+</suite>
